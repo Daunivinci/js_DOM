@@ -1,0 +1,22 @@
+.container {
+    width: 80%;
+    min-width: 900px;
+    margin: 20px auto;
+}
+
+.one {
+    background: cyan;
+}
+
+.two {
+    background-color: coral; 
+}
+
+.toggle, .gas {
+    background-color: #fff;
+    border: none;
+}
+
+.three {
+    border: 2px solid blueviolet;
+}
